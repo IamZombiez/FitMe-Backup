@@ -119,11 +119,4 @@ window.onclick = function(event) {
 }
 
 
-function total() {
-    
-}
 
-
-
-
-$(".numberDiv").
